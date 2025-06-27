@@ -53,7 +53,7 @@ This document summarizes the experimental setup and results of multiple deep lea
 | RMSE   | N-BEATSx   |
 | R²     | N-BEATSx   |
 
-![Model Evaluation](model_comparison_images/model_comparison_metrics.png)
+![model\_comparison\_metrics\_fixed.png](model_comparison_images/model_comparison_metrics_fixed.png)
 
 ---
 
@@ -63,10 +63,10 @@ This document summarizes the experimental setup and results of multiple deep lea
 
 ### Heatmaps by Well
 
-* ![MAE by Well](model_comparison_images/heatmap_by_well_MAE.png)
-* ![MSE by Well](model_comparison_images/heatmap_by_well_MSE.png)
-* ![RMSE by Well](model_comparison_images/heatmap_by_well_RMSE.png)
-* ![R² by Well](model_comparison_images/heatmap_by_well_R2.png)
+![heatmap\_by\_well\_MAE.png](model_comparison_images/heatmap_by_well_MAE.png)
+![heatmap\_by\_well\_MSE.png](model_comparison_images/heatmap_by_well_MSE.png)
+![heatmap\_by\_well\_RMSE.png](model_comparison_images/heatmap_by_well_RMSE.png)
+![heatmap\_by\_well\_R2.png](model_comparison_images/heatmap_by_well_R2.png)
 
 ---
 
@@ -76,10 +76,10 @@ This document summarizes the experimental setup and results of multiple deep lea
 
 ### Heatmaps by Horizon
 
-* ![MAE by Horizon](model_comparison_images/heatmap_by_horizon_MAE.png)
-* ![MSE by Horizon](model_comparison_images/heatmap_by_horizon_MSE.png)
-* ![RMSE by Horizon](model_comparison_images/heatmap_by_horizon_RMSE.png)
-* ![R² by Horizon](model_comparison_images/heatmap_by_horizon_R2.png)
+![heatmap\_by\_horizon\_MAE.png](model_comparison_images/heatmap_by_horizon_MAE.png)
+![heatmap\_by\_horizon\_MSE.png](model_comparison_images/heatmap_by_horizon_MSE.png)
+![heatmap\_by\_horizon\_RMSE.png](model_comparison_images/heatmap_by_horizon_RMSE.png)
+![heatmap\_by\_horizon\_R2.png](model_comparison_images/heatmap_by_horizon_R2.png)
 
 ---
 
